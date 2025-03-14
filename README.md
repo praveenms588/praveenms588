@@ -16,7 +16,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.verilog.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="verilog" width="40" height="40"/>
+   ![new](https://github.com/user-attachments/assets/348d9141-7c6c-4002-8d98-abaca26506c5)
+
   </a>
 </p>
 
